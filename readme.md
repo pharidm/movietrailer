@@ -2,3 +2,13 @@
 Displays a list of the best movies when you need to feel great
 ## Installation
 Ensure that Python 3.6 is installed
+## Usage
+The project should be used only when bored
+## Contributing
+If you have changes please email me and I'll send you a git link
+## History
+Please contact me for git commit history
+## Credits
+Thanks to Udacity
+## License
+No License required
